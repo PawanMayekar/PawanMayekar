@@ -40,7 +40,7 @@ I’m a results-driven developer passionate about building **scalable applicatio
 
 ## 🌱 Currently  
 
-- 🔨 Building web & mobile apps at **SD Corporation Holdings Pvt Ltd (Intern)**  
+- 🔨 Building web & mobile apps at **SD Corporation Holdings Pvt Ltd (Full-Time Freelancer)**  
 - 📚 Exploring **System Integration, ML models, and Mobile-first architectures**  
 
 ---
