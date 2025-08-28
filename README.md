@@ -53,4 +53,4 @@ I’m a results-driven developer passionate about building **scalable applicatio
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:pawanmws11@gmail.com)  
 
 ---
-✨ *“Clean code and continuous learning is my mantra.”*  
+  
